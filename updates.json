@@ -1,0 +1,17 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.1",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.1/",
+    "version": "1.0.1"
+  },
+  "darwin-x64-prod": {
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/darwin-x64-prod-v1.0.1/release.json",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/darwin-x64-prod-v1.0.1/DoorderWatcherPC-1.0.1.dmg",
+    "version": "1.0.1"
+  },
+  "linux-x64-prod": {
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/linux-x64-prod-v1.0.1/doorder-pc-watcher-1.0.1-x86_64.AppImage",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/linux-x64-prod-v1.0.1/doorder-pc-watcher-1.0.1-x86_64.AppImage",
+    "version": "1.0.1"
+  }
+}
