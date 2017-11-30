@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.2",
-    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.2/DoorderWatcherPC Setup 1.0.2.exe",
-    "version": "1.0.2"
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.3",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/win32-x64-prod-v1.0.3/DoorderWatcherPC Setup 1.0.3.exe",
+    "version": "1.0.3"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/skehd13/electron-watcher-update/releases/download/darwin-x64-prod-v1.0.1/release.json",
