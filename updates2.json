@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/1.0.0",
-    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/1.0.0/U+KioskWatcherApp.Setup.1.0.0.exe",
-    "version": "1.0.0"
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/1.0.1",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/1.0.1/U+KioskWatcherApp.Setup.1.0.1.exe",
+    "version": "1.0.1"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/skehd13/electron-watcher-update/releases/download/darwin-x64-prod-v0.0.0/release.json",
