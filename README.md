@@ -1,5 +1,5 @@
 # electron-watcher-update-test
 
-update = test
-update2 = rel
-update3 = dev
+- update = test
+- update2 = rel
+- update3 = dev
