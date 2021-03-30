@@ -1,0 +1,7 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/skehd13/electron-watcher-update/releases/download/0.2.2",
+    "install": "https://github.com/skehd13/electron-watcher-update/releases/download/0.2.2/DoorderLgKioskRelTestWatcherApp.Setup.0.2.2.exe",
+    "version": "0.2.2"
+  }
+}
